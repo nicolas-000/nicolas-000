@@ -17,11 +17,6 @@
 > cat mission_statement.txt
   "I build scalable backend architectures and automate manual processes.
    My goal is to create self-sustaining systems using Python and Cloud Infrastructure."
-
-> current_status
-  [✓] Automating pipelines at ICASS SPA
-  [✓] Configuring WireGuard VPNs on Oracle Cloud
-  [!] Exploring Design Patterns
 ```
 
 ---
